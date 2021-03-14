@@ -5,4 +5,4 @@ Automating LVM Partition using Python-Script.
 <li> Reduce the logical volume </li>
 
 ## Screenshot
-![lvm_ui](screenshots/lvm.png)
+![](lvm.jpg)
